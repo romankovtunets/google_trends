@@ -1,0 +1,13 @@
+/__pycache__
+/g_trends/__init__.py
+/g_trends/_pycache__
+/g_trends/migrations
+db.sqlite3
+manage.py
+
+*.pyc
+*~
+*.egg-info
+*.mo
+*.egg
+*.swp
